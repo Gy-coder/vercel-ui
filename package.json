@@ -1,0 +1,27 @@
+{
+  "name": "vercel-ui",
+  "version": "0.0.1",
+  "description": "A minimalist React UI library for Web, originating from Vercel's design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shervinchen/vercel-ui.git"
+  },
+  "keywords": [
+    "react",
+    "vercel",
+    "react-components",
+    "ui-library",
+    "design-systems",
+    "typescript"
+  ],
+  "author": "shervinchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shervinchen/vercel-ui/issues"
+  },
+  "homepage": "https://github.com/shervinchen/vercel-ui#readme"
+}
